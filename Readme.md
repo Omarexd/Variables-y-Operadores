@@ -1,12 +1,12 @@
-\# Variables Y Operadores
+# Variables Y Operadores
 
 
 
-\## Respuestas Teóricas
+# Respuestas Teóricas
 
 
 
-\### ¿Para qué se utilizan los operadores lógicos en programación?
+ ¿Para qué se utilizan los operadores lógicos en programación?
 
 
 
@@ -16,7 +16,7 @@ Se utilizan principalmente en estructuras de control como `if` o `while`, permit
 
 
 
-\### ¿Por qué es importante declarar correctamente el tipo de dato de una variable?
+ ¿Por qué es importante declarar correctamente el tipo de dato de una variable?
 
 
 
@@ -30,23 +30,23 @@ Declarar correctamente evita errores, permite operaciones correctas y mejora el 
 
 
 
-\## Justificación Técnica
+# Justificación Técnica
 
 
 
-\### Clasificación de edad
+# Clasificación de edad
 
 Se utilizó `if-else` porque permite evaluar rangos numéricos de forma clara y ordenada.
 
 
 
-\### Día de la semana
+# Día de la semana
 
 Se utilizó `switch` porque se evalúa un único valor con múltiples opciones posibles, lo que hace el código más limpio.
 
 
 
-\### Verificación de acceso
+# Verificación de acceso
 
 Se utilizó `if-else` porque se deben evaluar múltiples condiciones dependientes entre sí.
 
